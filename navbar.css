@@ -1,0 +1,139 @@
+body{
+  margin: 0px;
+}
+
+#topNav{
+  background-color: red;
+  height: 25%;
+  margin: 0px;
+}
+
+#topNav li{
+    text-decoration: none;
+    display: inline;
+    float: right;
+    padding-right: 35px;
+}
+
+#topNav li:hover{
+  background-color: red;
+}
+
+#topNav li a{
+     text-decoration: none;
+     font-family:monospace;
+     font-size: 35px;
+     color: orange;
+}
+
+#topNav li a:hover{
+  color: yellow;
+}
+
+#menuNav{
+    height: 100%;
+    width: 45px;
+    background-color: red;
+    border-right: 2px solid red;
+    margin: 0px;
+    float: left;
+}
+
+#menuNav li{
+  list-style: none;
+  font-size: 35px;
+  font-family: monospace;
+  padding-top: 25px;
+}
+
+
+#hamTitle{
+  color: red;
+}
+
+#hamDes{
+  font-size: 35px;
+}
+
+#hamPic{
+  width: 350px;
+  height: 350px;
+}
+
+#fryTitle{
+  color:yellow;
+}
+
+#fryDes{
+  font-size: 35px;
+}
+
+#frypic{
+  width: 350px;
+  height: 350px;
+}
+
+#hotTitle{
+  color:red;
+}
+
+#hotdes{
+  font-size: 35px;
+}
+
+#hotPic{
+  width: 350px;
+  height: 350px;
+}
+
+#chicktitle{
+  color:red;
+}
+
+#chickDes{
+  font-size: 35px;
+}
+
+#chickpic{
+  width: 350px;
+  height: 350px;
+}
+
+#iceTitle{
+  color: red;
+}
+
+#icedes{
+  font-size: 35px;
+}
+
+#icepic{
+  width: 350px;
+  height: 350px;
+}
+
+#jobtitle{
+  color:black;
+}
+
+#jobdes{
+  font-size: 35px;
+}
+
+#jobpic{
+  width: 350px;
+  height: 350px;
+}
+
+#knowtitle{
+  color:red;
+}
+
+#knowdes{
+  font-size: 35px;
+}
+
+#knowpic{
+  width: 350px;
+  height: 350px;
+}
